@@ -1,7 +1,7 @@
 # awesome-missing-modality-for-medical-images
 📝 A comprehensive review of techniques to address the missing modality problem for medical images
 
-😊 If there are any related works I missed, please let me know! Feel free to contact me by email: han.liu@vanderbilt.edu
+If there are any related works I missed, please let me know! 😊 Feel free to contact me: han.liu@vanderbilt.edu
 
 
 | Year | Paper | Code | Publication | Datasets | Unified | Reported results |
