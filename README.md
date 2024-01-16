@@ -3,6 +3,7 @@
 
 | Year | Paper | Code | Publication | Datasets | Unified | Reported results |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
+| 2023 | [Prototype Knowledge Distillation for Medical Segmentation with Missing Modality](https://arxiv.org/pdf/2303.09830.pdf) | [:heavy_check_mark:](https://github.com/SakurajimaMaiii/ProtoKD) | ICASSP  | BraTS2018 | :x: | > H-UVED, KD-Net, PMKL |
 | 2023 | [MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation](https://openreview.net/pdf?id=PD0ASSmvlE) | [:heavy_check_mark:](https://github.com/xmindflow/MMCFormer) | MIDL | BraTS2018 | :x: | > HeMIS, H-UVED, ACN, SMU |
 | 2022 | [D2-Net: Dual Disentanglement Network for Brain Tumor Segmentation with Missing Modalities](https://ieeexplore-ieee-org.proxy.library.vanderbilt.edu/stamp/stamp.jsp?tp=&arnumber=9775681) | [:heavy_check_mark:](https://github.com/CityU-AIM-Group/D2Net) | TMI | BraTS2018 | :heavy_check_mark: | > HeMIS, H-UVED, KD-net, ACN, RobustSeg |
 | 2022 | [mmformer: Multimodal medical transformer for incomplete multimodal learning of brain tumor segmentation](https://arxiv.org/pdf/2206.02425.pdf) | [:heavy_check_mark:](https://github.com/YaoZhang93/mmFormer) | MICCAI | BraTS2018 | :heavy_check_mark: | > HeMIS, H-UVED; < ACN |
