@@ -3,7 +3,7 @@
 
 | Year | Paper | Code | Publication | Datasets | Unified | Reported results |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
-| 2023 | [M<sup>2</sup>FTrans: Modality-Masked Fusion Transformer for Incomplete Multi-Modality Brain Tumor Segmentation](https://ieeexplore-ieee-org.proxy.library.vanderbilt.edu/stamp/stamp.jsp?tp=&arnumber=10288381) | [:heavy_check_mark:](https://github.com/Jun-Jie-Shi/M2FTrans) | JBHI  | BraTS2018 BraTS2020 | :heavy_check_mark: | > HeMIS, H-UVED, RobustSeg, RFNet, mmformer |
+| 2023 | [M<sup>2</sup>FTrans: Modality-Masked Fusion Transformer for Incomplete Multi-Modality Brain Tumor Segmentation](https://ieeexplore-ieee-org.proxy.library.vanderbilt.edu/stamp/stamp.jsp?tp=&arnumber=10288381) | [:heavy_check_mark:](https://github.com/Jun-Jie-Shi/M2FTrans) | JBHI  | BraTS2018 BraTS2020 | :heavy_check_mark: | > HeMIS, H-UVED, RobustSeg, RFNet, mmformer, ACN, SMU-Net |
 | 2023 | [Prototype Knowledge Distillation for Medical Segmentation with Missing Modality](https://arxiv.org/pdf/2303.09830.pdf) | [:heavy_check_mark:](https://github.com/SakurajimaMaiii/ProtoKD) | ICASSP  | BraTS2018 | :x: | > H-UVED, KD-Net, PMKL |
 | 2023 | [MMCFormer: Missing Modality Compensation Transformer for Brain Tumor Segmentation](https://openreview.net/pdf?id=PD0ASSmvlE) | [:heavy_check_mark:](https://github.com/xmindflow/MMCFormer) | MIDL | BraTS2018 | :x: | > HeMIS, H-UVED, ACN, SMU |
 | 2022 | [D<sup>2</sup>-Net: Dual Disentanglement Network for Brain Tumor Segmentation with Missing Modalities](https://ieeexplore-ieee-org.proxy.library.vanderbilt.edu/stamp/stamp.jsp?tp=&arnumber=9775681) | [:heavy_check_mark:](https://github.com/CityU-AIM-Group/D2Net) | TMI | BraTS2018 | :heavy_check_mark: | > HeMIS, H-UVED, KD-net, ACN, RobustSeg |
