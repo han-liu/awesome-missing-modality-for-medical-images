@@ -3,9 +3,11 @@
 
 If there are any related works I missed, please let me know! 😊 Feel free to contact me: han.liu@vanderbilt.edu
 
-
 | Year | Paper | Code | Publication | Datasets | Unified | Reported results |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
+| 2023 | [Scratch Each Other’s Back: Incomplete Multi-modal Brain Tumor Segmentation Via Category Aware Group Self-Support Learning](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiu_Scratch_Each_Others_Back_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_via_ICCV_2023_paper.pdf) | :x: | ICCV  | BraTS2015 BraTS2018 BraTS2020 | :heavy_check_mark: | > H-UVED, RobustSeg, RFNet, mmformer |
+| 2023 | [Query Re-Training for Modality-Gnostic Incomplete Multi-modal Brain Tumor Segmentation](https://chendl02.github.io/data/MICCAI2023-Query%20Re-Training%20for%20Modality-Gnostic%20and%20Robust%20Incomplete%20Multi-modal%20Brain%20Tumor%20Segmentation.pdf) | :x: | MICCAI workshop MMMI  | BraTS2018 BraTS2020 | :heavy_check_mark: | > H-UVED, RobustSeg, RFNet, mmformer |
+| 2023 | [Modal-aware Visual Prompting for Incomplete Multi-modal Brain Tumor Segmentation](https://dl.acm.org/doi/pdf/10.1145/3581783.3611712) | :x: | ACM  | BraTS2015 BraTS2018 BraTS2020 | :heavy_check_mark: | > HeMIS, H-UVED, RobustSeg, mmformer |
 | 2023 | [M3AE: Multimodal Representation Learning for Brain Tumor Segmentation with Missing Modalities](https://arxiv.org/pdf/2303.05302.pdf) | [:heavy_check_mark:](https://github.com/ccarliu/m3ae) | AAAI  | BraTS2018 BraTS2020 | :heavy_check_mark: | > H-UVED, ACN, SMU-Net, RFNet |
 | 2023 | [Multi-modal Learning with Missing Modality via Shared-Specific Feature Modelling](https://arxiv.org/pdf/2307.14126.pdf) | :x: | CVPR  | BraTS2018 BraTS2020 | :heavy_check_mark: | > HeMIS, H-UVED, RobustSeg, mmformer, ACN, KD-Net |
 | 2023 | [Enhancing Modality-Agnostic Representations via Meta-learning for Brain Tumor Segmentation](https://openaccess.thecvf.com/content/ICCV2023/papers/Konwer_Enhancing_Modality-Agnostic_Representations_via_Meta-Learning_for_Brain_Tumor_Segmentation_ICCV_2023_paper.pdf) | :x: | ICCV  | BraTS2018 BraTS2019 BraTS2020 | :heavy_check_mark: | > HeMIS, H-UVED, D2-Net, ACN, RFNet, mmformer |
