@@ -7,6 +7,7 @@ If there are any related works I missed, please let me know! 😊 Feel free to c
 
 | Year | Paper | Code | Publication | Datasets | Unified | Reported results |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
+| 2025 | [SimMLM: A Simple Framework for Multi-modal Learning with Missing Modality](https://arxiv.org/pdf/2507.19264) | [:heavy_check_mark:](https://github.com/LezJ/SimMLM) | ICCV | BraTS2018 | :heavy_check_mark: | RobustSeg, mmFormer,  ShaSpec, MoMKE |
 | 2025 | [IM-Fuse: A Mamba-based Fusion Block for Brain Tumor Segmentation with Incomplete Modalities](https://federicobolelli.it/pub_files/2025miccai_imfuse.pdf) | [:heavy_check_mark:](https://github.com/AImageLab-zip/IM-Fuse) | MICCAI | BraTS2023 | :heavy_check_mark: | IM-Fuse, U-HVED, RobustSeg, mmFormer, SFusion, ShaSpec, M3AE, and M3FeCon |
 | 2024 | [Feasibility and benefits of joint learning from MRI databases with different brain diseases and modalities for segmentation](https://openreview.net/pdf?id=z0r388Sbv3) | [:heavy_check_mark:](https://github.com/WenTXuL/MultiUnet) | MIDL | BraTS2016 MSSEG16 ATLAS TBI WMH ISLES | :heavy_check_mark: | Unified > Separate, ModDrop > late fusion |
 | 2024 | [Missing as Masking: Arbitrary Cross-modal Feature Reconstruction for Incomplete Multimodal Brain Tumor Segmentation](https://papers.miccai.org/miccai-2024/paper/0067_paper.pdf) | :x: | MICCAI | BraTS2018 | :heavy_check_mark: | > ModDrop++, mmFormer, M3AE |
